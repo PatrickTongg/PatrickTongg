@@ -1,4 +1,7 @@
-<h2>A little more about me...  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<div align="center">
+  <img height="300" src="https://camo.githubusercontent.com/b463b135e1c1e02be49b5a821922be8caa5c2ca2274663c1dd30227872f9d59d/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966"  />
+</div>
+
 ###
 
 <div align="center">
@@ -13,21 +16,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=patricktongg.patricktongg&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Patrick Tong from Canada<br><br>- 🔭 I’m a student in Humber College<br>- 📚 I'm currently learning Data science<br>- ⚡ In my free time I will keep learning</p>
+<p align="left">I'm Patrick Tong from Canada<br><br>- 🔭 I’m a student in Humber College<br>- 📚 I'm currently learning Data science<br>- ⚡ In my free time I will keep learning<br>-😉 Also a coffee and whisky lover</p>
 
 ###
 
