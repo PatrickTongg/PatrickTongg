@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Patrick Tong from Canada<br><br>- 🔭 I’m a student in Humber College<br>- 📚 I'm currently learning Data science<br>- ⚡ In my free time I will keep learning<br>-😉 Also a coffee and whisky lover</p>
+<p align="left">I'm Patrick Tong from Hong Kong base in Canada<br><br>- 🔭 I’m a student in Humber College<br>- 📚 I'm currently learning Data science<br>- ⚡ In my free time I will keep learning<br>-😉 Also a coffee and whisky lover</p>
 
 ###
 
