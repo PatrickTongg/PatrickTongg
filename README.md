@@ -33,9 +33,9 @@ Hi! I'm **Patrick Tong**, a data-driven professional from Hong Kong, now based i
   -  Automated reporting and streamlined database operations, improving data accuracy and accelerating availability of key business metrics.
   -  Collaborated with cross-functional teams to enforce data integrity and security across authentication and user profiles.
 
--  **Software Developer Intern**
--  SnapFeedback — Hong Kong
--  02/2024 – 06/2024
+- **Software Developer Intern**
+- SnapFeedback — Hong Kong
+- 02/2024 – 06/2024
   -  Developed and fine-tuned ML models for real-time analysis of facial expressions and concentration, utilizing computer vision and API integrations.
   -  Built a video interface framework delivering seamless, in-meeting interaction analytics for user engagement tracking.
   -  Integrated APIs and ML pipelines to support scalable, real-time feedback systems in a fast-paced product environment.
