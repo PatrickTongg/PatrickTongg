@@ -53,6 +53,18 @@ Little Scientist Education Group
 ---
 
 ## 🛠️ Languages & Tools
+**Programming Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+**Data Analysis & Machine Learning Libraries:**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+<!-- Pandas and scikit-learn logos could be added if those are part of your stack -->
+**Cloud & DevOps:**  
+![Azure](/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 
 ---
