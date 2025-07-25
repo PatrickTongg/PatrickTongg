@@ -19,58 +19,41 @@
 Hi! I'm **Patrick Tong**, a data-driven professional from Hong Kong, now based in Toronto, Canada.
 
 - 🎓 Student in Information Technology Solutions at Humber College
-- 👨‍💻 Aspiring Data Analyst & Python Developer
+- 👨‍💻 Aspiring Data Analyst & Developing
 - 🛠️ Passionate about data storytelling, automation, and predictive analytics
-- ☕ Coffee and whisky enthusiast
 - 🚀 Committed to lifelong learning in data science and analytics
 
 ---
 
 ## 💼 Experience
+- **Backend Developer Intern**
+- Zodiac — Toronto, ON
+- 01/2025 – 05/2025
 
-- **Backend Developer Intern — Zodiac, Toronto**
-  - Automated reporting and analytics dashboards, increasing data retrieval speed by 25%.
-  - Ensured data quality and built scalable backend solutions for user and business analytics.
+-  Engineered backend services and optimized SQL queries, resulting in a 25% increase in user data retrieval speed and enhanced analytics dashboard performance.
+-  Automated reporting and streamlined database operations, improving data accuracy and accelerating availability of key business metrics.
+-  Collaborated with cross-functional teams to enforce data integrity and security across authentication and user profiles.
 
-- **Software Developer Intern — SnapFeedback, Hong Kong**
-  - Developed real-time ML models for user engagement and feedback analytics using computer vision.
+-  **Software Developer Intern**
+-  SnapFeedback — Hong Kong
+-  02/2024 – 06/2024
 
-- **Associate Director of Education — Little Scientist Education Group**
+  -  Developed and fine-tuned ML models for real-time analysis of facial expressions and concentration, utilizing computer vision and API integrations.
+  -  Built a video interface framework delivering seamless, in-meeting interaction analytics for user engagement tracking.
+  -  Integrated APIs and ML pipelines to support scalable, real-time feedback systems in a fast-paced product environment.
+  
+- **Associate Director of Education**
+- Little Scientist Education Group
   - Designed dashboards and streamlined financial analysis processes, enhancing operational performance.
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-</div>
 
 ---
 
 ## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=patricktongg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patricktongg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
