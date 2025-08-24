@@ -20,7 +20,7 @@
 
 Hi! I'm **Patrick Tong**, a data-driven professional from Hong Kong, now based in Toronto, Canada.
 
-- 🎓 Student in Information Technology Solutions at Humber College
+- 🎓 Studied in Information Technology Solutions at Humber College 
 - 👨‍💻 Aspiring Data Analyst & Developing
 - 🛠️ Passionate about data storytelling, automation, and predictive analytics
 - 🚀 Committed to lifelong learning in data science and analytics
