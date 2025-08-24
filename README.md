@@ -35,7 +35,7 @@ Zodiac — Toronto, ON
   -  Automated reporting and streamlined database operations, improving data accuracy and accelerating availability of key business metrics.
   -  Collaborated with cross-functional teams to enforce data integrity and security across authentication and user profiles.
 
-**Software Developer Intern**
+**Machine Learning Intern**
 SnapFeedback — Hong Kong
 02/2024 – 06/2024
   -  Developed and fine-tuned ML models for real-time analysis of facial expressions and concentration, utilizing computer vision and API integrations.
